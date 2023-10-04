@@ -9,6 +9,8 @@
 
 
 
+Execution Screenshots:
+
 ![image](https://github.com/cxx5208/Task-3-Exploratory-Data-Analysis---Retail/assets/76988460/512e129d-cbc6-4072-95d2-6c6ec3c76ba8)
 
 
