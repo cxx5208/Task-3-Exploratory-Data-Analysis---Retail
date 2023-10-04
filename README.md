@@ -1,7 +1,10 @@
 
 **Project Title:** Exploratory Data Analysis (EDA) on SampleSuperstore Dataset
+
 **Objective:** To analyze and gain insights from the SampleSuperstore dataset through EDA techniques.
+
 **Approach:** Conduct data visualization, summary statistics, and data cleaning to understand the store's performance, sales trends, and customer behavior.
+
 **Outcome:** Identify patterns, outliers, and actionable recommendations for improving the store's operations and profitability based on data-driven insights.
 
 
